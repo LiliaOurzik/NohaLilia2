@@ -19,8 +19,8 @@ body {
     font-size: 36px;
     color: #ece3e3;
     font-weight: bold;
-    margin-top: 10px; /* Espace au-dessus du titre */
-    margin-bottom: 100px;
+    margin-top: 30px; /* Espace au-dessus du titre */
+    margin-bottom: 27px;
     text-align: center;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 .legende {
-    margin-top: 50px; /* Espace au-dessus du titre */
+    margin-top: 150px; /* Espace au-dessus du titre */
     margin-bottom:5px;
 }
 .texte {
@@ -87,4 +87,3 @@ hr {
     margin-top: 30px;
     margin-bottom: 30px;
 }
-
